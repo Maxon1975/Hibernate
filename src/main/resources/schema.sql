@@ -17,7 +17,7 @@ insert into persons(
 ) values
       ('Maksim', 'Annenkov', 49, 89097994058, 'Moscow'),
       ('Petr', 'Semenov', 35, 89777994548, 'Kazan'),
-      ('Olga', 'Bakeeva', 40, 89096775421, 'Saint-Petersburg'),
+      ('Natalya', 'Bakeeva', 40, 89096775421, 'Saint-Petersburg'),
       ('Tomila', 'Bodrova', 26, 89777994567, 'Moscow');
 
 
